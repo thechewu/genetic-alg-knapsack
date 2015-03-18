@@ -1,0 +1,12 @@
+C:\Vuk\sem5\Advanced .Net\KnapsackChallenge\KnapsackChallenge\bin\Debug\KnapsackChallenge.exe.config
+C:\Vuk\sem5\Advanced .Net\KnapsackChallenge\KnapsackChallenge\obj\Debug\KnapsackChallenge.csprojResolveAssemblyReference.cache
+C:\Vuk\sem5\Advanced .Net\KnapsackChallenge\KnapsackChallenge\bin\Debug\KnapsackChallenge.exe
+C:\Vuk\sem5\Advanced .Net\KnapsackChallenge\KnapsackChallenge\bin\Debug\KnapsackChallenge.pdb
+C:\Vuk\sem5\Advanced .Net\KnapsackChallenge\KnapsackChallenge\obj\Debug\KnapsackChallenge.exe
+C:\Vuk\sem5\Advanced .Net\KnapsackChallenge\KnapsackChallenge\obj\Debug\KnapsackChallenge.pdb
+D:\College\sem5\KnapsackChallenge\KnapsackChallenge\bin\Debug\KnapsackChallenge.exe.config
+D:\College\sem5\KnapsackChallenge\KnapsackChallenge\obj\Debug\KnapsackChallenge.exe
+D:\College\sem5\KnapsackChallenge\KnapsackChallenge\obj\Debug\KnapsackChallenge.pdb
+D:\College\sem5\KnapsackChallenge\KnapsackChallenge\bin\Debug\KnapsackChallenge.exe
+D:\College\sem5\KnapsackChallenge\KnapsackChallenge\bin\Debug\KnapsackChallenge.pdb
+D:\College\sem5\KnapsackChallenge\KnapsackChallenge\obj\Debug\KnapsackChallenge.csprojResolveAssemblyReference.cache
